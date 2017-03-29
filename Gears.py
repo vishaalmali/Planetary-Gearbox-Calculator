@@ -1,7 +1,9 @@
 from math import *
 
 diameterSunGear=float(input("Enter the desired diameter of the sun gear:: "))
+
 module=float(input("Enter the desired module:: "))
+
 ratio=float(input("Enter the desired ratio of ring to sun gear:: "))
 
 pitch=module
